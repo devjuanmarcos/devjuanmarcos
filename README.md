@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Juan Marcos
 
 - 🔭 Hoje estudo full stack, me aperfeiçoando para começar a trabalhar na área
-- 🌱 Atualmente estou estudando especificamento Api Restiful
+- 🌱 Atualmente estou estudando especificamente Api Restiful e Desenvolvimento Web, com projetos aplicados em Api
 - 💬 Contate-me no email jncontatojn@gmail.com
 <div align="center">
   <a href="https://github.com/devjuanmarcos">
