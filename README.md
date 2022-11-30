@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=622081&height=120&section=header&text=Juan Marcos"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=622081&height=120&section=header&text=Juan Marcos&fonSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=622081&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+meu+nome+é+Juan+Marcos+e+tenho+20+anos;Sou+de+Petrópolis,+RJ;Eu+estudo+programação+Full+Stack+desde+AGO+22;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
