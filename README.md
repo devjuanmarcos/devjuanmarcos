@@ -8,8 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanmarcos&layout=compact&hide_border=true&title_color=622081&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
- <div align="center">
-###Main skills: <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E") </img> </div>
+ <div align="center"> ###Main skills: </div> <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E") </img>
  
 
 ![JavaScript]()&nbsp;
