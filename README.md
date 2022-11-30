@@ -36,7 +36,7 @@
 
 
   <div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
+<br><p align="centre"><b>Contador de visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjuanmarcos}/count.svg" /></p> 
 <br></div>
   
