@@ -8,13 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanmarcos&layout=compact&hide_border=true&title_color=622081&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=devjuanmarcos&hide_border=true&area=true&title_color=622081&icon_color=622081&text_color=c9d1d9&bg_color=0d1117)
-
-<div align="center">  
-<a href="(https://www.instagram.com/eujuanmarcos/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
