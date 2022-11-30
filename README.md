@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanmarcos&layout=compact&hide_border=true&title_color=622081&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=devjuanmarcos&theme=gotham&hide_border=true&area=true&title_color=622081&icon_color=622081&text_color=c9d1d9&bg_color=0d1117)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=devjuanmarcos&hide_border=true&area=true&title_color=622081&icon_color=622081&text_color=c9d1d9&bg_color=0d1117)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devjuanmarcos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
