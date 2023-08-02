@@ -31,7 +31,7 @@
 <div align="center"> Estudando no momento: </div> 
 <div  justify-content= "center" align="center">
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117") </img>
-<img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117") </img>
+<img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117") </img>
 </div>
 
 
