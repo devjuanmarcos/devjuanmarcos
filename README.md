@@ -19,6 +19,7 @@ Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programa
   <img src="https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
