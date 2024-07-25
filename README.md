@@ -41,7 +41,7 @@ Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programa
 ## Contador de Visitas
 <div align="center">
   <br><p align="centre"><b>Contador de visitas</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/devjuanmarcos/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjuanmarcos}/count.svg" /></p> 
   <br>
 </div>
 
