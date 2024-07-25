@@ -4,7 +4,7 @@
 
 Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programação Full Stack desde agosto de 2022.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=622081&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+meu+nome+é+Juan+Marcos+e+tenho+21+anos;Sou+de+Petrópolis,+RJ;Eu+estudo+programação+Full+Stack+desde+AGO+22;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=622081&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+meu+nome+é+Juan+Marcos+e+tenho+22+anos;Sou+de+Petrópolis,+RJ;Eu+estudo+programação+Full+Stack+desde+AGO+22;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ## Estatísticas GitHub
 <div align="center">  
@@ -14,34 +14,34 @@ Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programa
 
 ## Minhas Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=for-the-badge&logo=react&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ## Ferramentas
 <div align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF") </img>
-  <img src="https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00") </img>
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E") </img>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </div>
 
 ## Estudando no Momento
 <div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white") </img>
-  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 ## Contador de Visitas
 <div align="center">
   <br><p align="centre"><b>Contador de visitas</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjuanmarcos}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/devjuanmarcos/count.svg" /></p> 
   <br>
 </div>
 
