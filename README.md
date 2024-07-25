@@ -14,25 +14,28 @@ Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programa
 
 ## Minhas Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E") </img>
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB") </img>
-  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=for-the-badge&logo=react&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white") </img>
 </div>
 
 ## Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117") </img>
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117") </img>
+  <img src="https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF") </img>
+  <img src="https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00") </img>
+  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E") </img>
 </div>
 
 ## Estudando no Momento
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117") </img>
-  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117") </img>
+  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white") </img>
+  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white") </img>
 </div>
 
 ## Contador de Visitas
