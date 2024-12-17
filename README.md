@@ -9,40 +9,8 @@ Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programa
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=622081&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+meu+nome+é+Juan+Marcos+e+tenho+22+anos;Sou+de+Petrópolis,+RJ;Eu+estudo+programação+Full+Stack+desde+AGO+22;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-## Estatísticas GitHub
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devjuanmarcos&show_icons=true&count_private=true&hide_border=true&title_color=622081&icon_color=622081&text_color=c9d1d9&bg_color=0d1117" alt="Juan Marcos de Souza Texe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanmarcos&layout=compact&hide_border=true&title_color=622081&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<img width=100% src"https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQzOTY3OTgsIm5iZiI6MTczNDM5NjQ5OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE3VDAwNDgxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxNDQ5YmJjY2M4ZGVlMjk1NzM5OGM5MWNjYzJhOGNhNjZlNmVmMTI5YzQ1MzU3N2Y4NGUzYTU3YjY1NGI5YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ID4FTI8lMT5xe_v5Nmpl4d6sV8RfL5c7vvmDfRIOy8Y"/>
 
-## Minhas Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zod-0D1117?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20Hook%20Form-0D1117?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Axios-0D1117?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-## Ferramentas
-<div align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</div>
-
-## Estudando no Momento
-<div align="center">
-  <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-## Contador de Visitas
 <div align="center">
   <br><p align="centre"><b>Contador de visitas</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjuanmarcos}/count.svg" /></p> 
