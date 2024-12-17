@@ -1,25 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=622081&height=120&section=header"/>
 
-<div align="center">
-  <svg width="100" height="200" viewBox="0 0 50 100" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="25" cy="15" r="10" fill="black" />
-    <line x1="25" y1="25" x2="25" y2="65" stroke="black" stroke-width="5" />
-    <line x1="25" y1="35" x2="10" y2="50" stroke="black" stroke-width="5" />
-    <line x1="25" y1="35" x2="40" y2="50" stroke="black" stroke-width="5" />
-    <line x1="25" y1="65" x2="15" y2="90" stroke="black" stroke-width="5" />
-    <line x1="25" y1="65" x2="35" y2="90" stroke="black" stroke-width="5" />
-    <style>
-      @keyframes dance {
-        0%, 100% { transform: rotate(0deg); }
-        50% { transform: rotate(15deg); }
-      }
-      line {
-        transform-origin: center;
-        animation: dance 1s infinite;
-      }
-    </style>
-  </svg>
-</div>
+
 
 
 # Olá, Mundo! 👋
