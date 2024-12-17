@@ -5,7 +5,7 @@
 
 # Olá, Mundo! 👋
 
-Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programação Full Stack desde agosto de 2022.
+Seja muito bem vindo ao meu armário de projetos.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=622081&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+meu+nome+é+Juan+Marcos+e+tenho+22+anos;Sou+de+Petrópolis,+RJ;Eu+estudo+programação+Full+Stack+desde+AGO+22;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
