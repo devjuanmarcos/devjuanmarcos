@@ -1,5 +1,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=622081&height=120&section=header"/>
 
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <div style="
+    width: 20px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    animation: dance 1s infinite;
+  ">
+    <div style="
+      width: 50px;
+      height: 10px;
+      background-color: black;
+      position: absolute;
+      top: -20px;
+      left: -15px;
+      border-radius: 50%;
+    "></div>
+  </div>
+</div>
+
+<style>
+  @keyframes dance {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(15deg);
+    }
+  }
+</style>
+
 # Olá, Mundo! 👋
 
 Meu nome é Juan Marcos, tenho 22 anos e sou de Petrópolis, RJ. Estudo programação Full Stack desde agosto de 2022.
