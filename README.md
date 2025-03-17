@@ -34,8 +34,9 @@ Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real.
 ---
 
 ## Habilidades Técnicas
-- **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Express, Python
+- **Front-end**: NextJs, React
+- **Back-end**: Node.js, Express
+- **Design**: Figma, Photoshop, Illustrator
 - **Ferramentas**: Git, GitHub, VS Code, Insomnia
 - **Outros**: APIs REST, Banco de Dados (SQL/NoSQL)
 
