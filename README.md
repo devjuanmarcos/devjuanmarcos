@@ -121,8 +121,8 @@ Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real.
 
 ## Contador de Visitas
 <div align="center">
-  <p><b>Visitas ao Perfil</b></p>  
-  <img src="https://profile-counter.glitch.me/devjuanmarcos/count.svg" />
+  <p align="centre"><b>Contador de visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devjuanmarcos}/count.svg" /></p> 
 </div>
 
 ---
