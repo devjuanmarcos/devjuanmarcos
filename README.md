@@ -26,7 +26,7 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 ---
 
 ## Produtividade em Código
-Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real. As métricas abaixo serão atualizadas assim que eu configurar o plugin na minha IDE.
+Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real. As métricas são atualizadas diariamente.
 
 ### Métricas Recentes (via WakaTime)
 ![Wakatime stats](https://wakatime.com/share/@devjuanmarcos/0389af9d-62fd-40f2-bd98-632e26437c39.svg)
