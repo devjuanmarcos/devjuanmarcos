@@ -31,14 +31,6 @@ Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real.
 ### Métricas Recentes (via WakaTime)
 ![Wakatime stats](https://wakatime.com/share/@devjuanmarcos/0389af9d-62fd-40f2-bd98-632e26437c39.svg)
 
----
-
-## Habilidades Técnicas
-- **Front-end**: NextJs, React
-- **Back-end**: Node.js, Express
-- **Design**: Figma, Photoshop, Illustrator
-- **Ferramentas**: Git, GitHub, VS Code, Insomnia
-- **Outros**: APIs REST, Banco de Dados (SQL/NoSQL)
 
 ---
 
