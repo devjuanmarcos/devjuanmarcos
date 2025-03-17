@@ -26,19 +26,7 @@ Olá! Eu sou **Juan Marcos**, tenho 22 anos e sou de Petrópolis, RJ. Desde agos
 
 ---
 
-## Produtividade em Código
-Para métricas detalhadas como linhas de código por dia, mês e ano, integro o **WakaTime**, uma ferramenta que rastreia minha atividade de codificação em tempo real.
 
-### Métricas Recentes (via WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_WAKATIME&theme=radical&hide_border=true)
-
-*(Nota: Substitua `SEU_USERNAME_WAKATIME` pelo seu username do WakaTime após configurá-lo.)*
-
-- **Linhas por Dia**: [Atualizado dinamicamente pelo WakaTime]
-- **Linhas por Mês**: [Atualizado dinamicamente pelo WakaTime]
-- **Linhas Anuais**: [Atualizado dinamicamente pelo WakaTime]
-
----
 
 ## Habilidades Técnicas
 - **Front-end**: HTML, CSS, JavaScript, React
