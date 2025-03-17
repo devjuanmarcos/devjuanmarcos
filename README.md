@@ -18,13 +18,6 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 
 ---
 
-## Estatísticas Profissionais
-
-### Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjuanmarcos&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## Produtividade em Código
 Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real. As métricas são atualizadas diariamente.
 
