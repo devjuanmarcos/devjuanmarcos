@@ -32,7 +32,7 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real. As métricas abaixo serão atualizadas assim que eu configurar o plugin na minha IDE.
 
 ### Métricas Recentes (via WakaTime)
-[![wakatime](https://wakatime.com/badge/user/jncontatojn.svg)](https://wakatime.com/@jncontatojn)
+[![wakatime](https://wakatime.com/badge/user/devjuanmarcos.svg)](https://wakatime.com/@jncontatojn)
 
 - **Linhas por Dia**: [Aguardando dados]
 - **Linhas por Mês**: [Aguardando dados]
