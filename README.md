@@ -18,13 +18,6 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 
 ---
 
-
-
-<img src="https://raw.githubusercontent.com/devjuanmarcos/devjuanmarcos/output/snake.svg" alt="Snake animation" />
-
-
----
-
 ## Contato e Redes
 - **Email Principal**: [jncontatojn@gmail.com](mailto:jncontatojn@gmail.com)
 - **Email Secundário**: [202401133949@alunos.estacio.br](mailto:202401133949@alunos.estacio.br)
