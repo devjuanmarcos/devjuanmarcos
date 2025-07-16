@@ -20,7 +20,7 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devjuanmarcos/devjuanmarcos/output/snake.svg" alt="Snake animation" />
 
 
 ---
