@@ -18,11 +18,12 @@ Olá! Eu sou **Juan Marcos**, 22 anos, de Petrópolis, RJ. Desde agosto de 2022,
 
 ---
 
-## Produtividade em Código
-Uso o **WakaTime** para rastrear minha atividade de codificação em tempo real. As métricas são atualizadas diariamente.
 
-### Métricas Recentes (via WakaTime)
-![Wakatime stats](https://wakatime.com/share/@devjuanmarcos/0389af9d-62fd-40f2-bd98-632e26437c39.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjuanmarcos/devjuanmarcos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjuanmarcos/devjuanmarcos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/devjuanmarcos/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ---
